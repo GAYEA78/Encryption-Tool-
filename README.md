@@ -1,6 +1,6 @@
 # Encryption-Tool-
 Encryption Tool
-The **Secret Message Machine** is an advanced Java application that showcases my skills in object-oriented programming, interface design, and algorithm development. This project provides users with a secure and interactive way to encrypt and decrypt messages using two classic encryption techniques: the Caesar Cipher and the Vigenère Cipher. 
+The **Secret Message Machine** is an advanced Java software that showcases my skills in object-oriented programming, interface design, and algorithm development. This project provides users with a secure and interactive way to encrypt and decrypt messages using two classic encryption techniques: the Caesar Cipher and the Vigenère Cipher. 
 
 The system is built with a modular and extensible architecture that demonstrates proficiency in designing reusable and maintainable code. The `Cipher` interface defines a standardized contract for encryption and decryption, promoting scalability by enabling the integration of additional ciphers in the future. The specific implementations of the `Caesar` and `Vigenère` ciphers highlight my ability to translate complex cryptographic algorithms into efficient and robust Java code.
 
